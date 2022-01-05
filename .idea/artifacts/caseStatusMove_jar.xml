@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="caseStatusMove:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/caseStatusMove_jar</output-path>
+    <root id="archive" name="caseStatusMove.jar">
+      <element id="module-output" name="caseStatusMove" />
+    </root>
+  </artifact>
+</component>
